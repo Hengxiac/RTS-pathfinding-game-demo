@@ -1,0 +1,14 @@
+# Ignore .p4ignore files
+.p4ignore
+
+# Ignore object files, shared libraries, executables, and also generated project files
+*.dll
+*.so
+*.exe
+*.o
+*.VC.db
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.bak
